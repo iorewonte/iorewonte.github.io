@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://iorewonte.github.io/iorewonte.iorewonte
+Sitemap: https://iorewonte.github.io/app/iorewonte.iorewonte
+Sitemap: https://iorewonte.github.io/assets/iorewonte.iorewonte
+Sitemap: https://iorewonte.github.io/css/iorewonte.iorewonte
+Sitemap: https://iorewonte.github.io/includes/iorewonte.iorewonte
+Sitemap: https://iorewonte.github.io/item/iorewonte.iorewonte
+Sitemap: https://iorewonte.github.io/src/iorewonte.iorewonte
